@@ -1,4 +1,5 @@
 ### Hi there 👋
+### This is Choi's Github! 
 
 #### 활동 내역
 #### 2020.09 ~ 현재 - UNBAP ❤️
