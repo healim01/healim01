@@ -4,7 +4,7 @@
 <br>
 
 #### 활동 내역
-2020.09 ~ 현재 - [팀 UNBAP](https://unbap.github.io/)
+2020.09 ~ 현재 - [팀 UNBAP](https://unbap.github.io/) <br>
 2021.06 ~ 현재 - 팀 조마루 감자탕
 
 <br>
