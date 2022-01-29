@@ -25,5 +25,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=healim01&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=healim01&layout=compact&theme=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=healim01&layout=github_dark&theme=compact)
 
