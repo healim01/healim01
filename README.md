@@ -25,9 +25,11 @@
 
 <table> 
  <td valign="top" width="55%"> 
+  <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=healim01&show_icons=true&theme=github_dark)
  </td> 
  <td valign="top" width="45%">
+  <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=healim01&layout=compact&theme=github_dark)
 </td> 
 </table>
