@@ -23,9 +23,9 @@
 2020.12 - 한동대학교 2020 1학년 C프로그래밍 컨테스트 장려상 <br>
 2020.11 - 한동대학교 2020 SW 페스티벌 1학년 자작소프트웨어 공모전 최우수상 <br>
 
-<table> 
- <td valign="top" width="55%"> <div>
+
+ <div valign="top" width="55%">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=healim01&show_icons=true&theme=github_dark)
-<div> </td> <td valign="top" width="45%"> <div>
+<div> <div valign="top" width="45%">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=healim01&layout=compact&theme=github_dark)
-  </div> </td> </table>
+  </div> 
