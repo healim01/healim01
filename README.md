@@ -29,3 +29,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=healim01&layout=compact&theme=github_dark)
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=healim01&show_icons=true&theme=github_dark&locale=eng" style="width: 50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=healim01&exclude_repo=merge_game&layout=compact&theme=github_dark" style="width: 42%"/>
+</div>
