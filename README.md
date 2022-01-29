@@ -25,5 +25,5 @@
 
 
 <td valign="top" width="54%">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=healim01&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=healim01&show_icons=true&theme=tokyonight)
 </td>
