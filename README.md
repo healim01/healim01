@@ -13,6 +13,7 @@
 2021.06 - [IT 가이드 앱](https://github.com/healim01/it_guide) <br>
 2021.09 - [HUT 웹사이트](https://hut.handong.us/) <br>
 2021.09 - 한동대 인근 병원 추천 웹 
+2022.01 - Badger UI 앱
 
 
 #### 🏆 ACHIEVEMENTS 🏆
