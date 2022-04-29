@@ -5,7 +5,7 @@
 #### 😎 TEAM 😎
 2020.09 ~ 현재 - HGU [팀 UNBAP](https://unbap.github.io/) <br>
 2021.06 ~ 2021.12 - HGU 팀 조마루 감자탕 <br>
-2022.01 ~ 현재 - LETU 팀 Badger
+2022.01 ~ 현재 - LETU Senior Design 팀 Badger
 
 
 #### 🖥 PROJECT 🖥
