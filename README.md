@@ -1,5 +1,5 @@
 ### Hi there 👋
-### This is Choi's Github!   
+### This is Hyelim's Github!   
 
 
 #### 😎 TEAM 😎
