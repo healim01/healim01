@@ -3,8 +3,9 @@
 
 
 #### 😎 TEAM 😎
-2020.09 ~   현재   - [HGU 팀 UNBAP](https://unbap.github.io/) <br>
+2020.09 ~ 2021.12 - [HGU 팀 UNBAP](https://unbap.github.io/) <br>
 2021.06 ~ 2021.12 - HGU 팀 조마루 감자탕 <br>
+2021.01 ~   현재   - HGU 팀 HUT <br>
 2022.01 ~   현재   - LETU Senior Design 팀 Badger
 
 
@@ -13,7 +14,8 @@
 2021.06 - [IT 가이드 앱](https://github.com/healim01/it_guide) <br>
 2021.09 - [HUT 웹사이트](https://hut.handong.us/) <br>
 2021.09 - 한동대 인근 병원 추천 웹 <br>
-2022.01 - Badger UI 앱
+2022.01 - Badger UI 앱 <br>
+2022.04 - HUT <br>
 
 
 #### 🏆 ACHIEVEMENTS 🏆
