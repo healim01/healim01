@@ -12,7 +12,7 @@
 #### 🖥 PROJECT 🖥
 2021.05 - [UNBAP 홈페이지](https://unbap.github.io/) <br>
 2021.06 - [IT 가이드 앱](https://github.com/healim01/it_guide) <br>
-2021.09 - [HUT 웹사이트](https://hut.handong.us/) <br>
+2021.09 - [HUT 웹사이트](https://github.com/handong-app/handong-ut-web/blob/main/OLD/hut.handong.app_(iPhone%2012%20Pro).png) <br>
 2021.09 - 한동대 인근 병원 추천 웹 <br>
 2022.01 - Badger UI 앱 <br>
 2022.04 - HUT 앱 <br>
