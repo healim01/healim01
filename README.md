@@ -15,7 +15,7 @@
 2021.09 - [HUT 웹사이트](https://github.com/handong-app/handong-ut-web/blob/main/OLD/hut.handong.app_(iPhone%2012%20Pro).png) <br>
 2021.09 - 한동대 인근 병원 추천 웹 <br>
 2022.01 - Badger UI 앱 <br>
-2022.04 - HUT v1.0.0 앱 <br> 
+2022.04 - [HUT v1.0.0 앱](https://apps.apple.com/us/app/hut/id1593293986) <br> 
 2022.06 - Badger UI v2.0.0 앱 <br>
 2022.06 - [HUT 웹사이트 뉴버전](https://hut.handong.app/) <br>
 
