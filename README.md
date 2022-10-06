@@ -3,21 +3,21 @@
 
 
 #### 😎 TEAM 😎
-2020.09 ~ 2021.12 - [HGU Team UNBAP](https://unbap.github.io/) <br>
-2021.06 ~ 2021.12 - HGU Team 조마루 감자탕 (Jomaru) <br>
-2021.01 ~   현재   - HGU Team HUT YA! <br>
-2022.01 ~   현재   - LETU Senior Design Team Badger
+2020.09 ~ 2021.12 - [HGU 팀 UNBAP](https://unbap.github.io/) <br>
+2021.06 ~ 2021.12 - HGU 팀 조마루 감자탕 (JOMARU) <br>
+2021.01 ~ present - HGU 팀 HUT YA! <br>
+2022.01 ~ present - LETU Senior Design 팀 Badger
 
 
 #### 🖥 PROJECT 🖥
 2021.05 - [UNBAP 홈페이지/UNBAP Website](https://unbap.github.io/) <br>
-2021.06 - [IT 가이드 앱](https://github.com/healim01/it_guide) <br>
-2021.09 - [HUT 웹사이트](https://github.com/handong-app/handong-ut-web/blob/main/OLD/hut.handong.app_(iPhone%2012%20Pro).png) <br>
-2021.09 - 한동대 인근 병원 추천 웹 <br>
-2022.01 - Badger UI 앱 <br>
+2021.06 - [IT 가이드 앱/IT Guide App](https://github.com/healim01/it_guide) <br>
+2021.09 - [HUT 웹사이트/HUT Website](https://github.com/handong-app/handong-ut-web/blob/main/OLD/hut.handong.app_(iPhone%2012%20Pro).png) <br>
+2021.09 - 한동대 인근 병원 추천 웹/ Hospital recommendation web near HGU <br>
+2022.01 - Badger UI 앱 / Badger UI App <br>
 2022.04 - [HUT v1.0.0 앱](https://apps.apple.com/us/app/hut/id1593293986) <br> 
 2022.06 - Badger UI v2.0.0 앱 <br>
-2022.06 - [HUT 웹사이트 뉴버전](https://hut.handong.app/) <br>
+2022.06 - [HUT 웹사이트 뉴버전/HUT Website v2](https://hut.handong.app/) <br>
 
 
 #### 🏆 ACHIEVEMENTS 🏆
