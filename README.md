@@ -21,11 +21,11 @@
 
 
 #### 🏆 ACHIEVEMENTS 🏆
-2022.10. - 2022 HGU SW Festival Software Convergence Research Contest **Top prize** (HUT v2.0.0) <br>
+2022.10. - 2022 HGU SW Festival Software Convergence Research Contest **Top prize** (HUT v1.0.0) <br>
 2022.05. - 2022 State Programming Contest **Encouragement prize**  <br>  
 
 2021.12. - 2021 National College Student Programming Contest **Encouragement prize** <br>
-2021.12. - 2021 HGU SW Festival Smart Application Contest **Top prize** (HUT v1.0.0) <br>
+2021.12. - 2021 HGU SW Festival Smart Application Contest **Top prize** (HUT Beta) <br>
 2021.12. - 2021 HGU SW Festival Problem Solving Idea Contest **Top prize** (IT Guide) <br>
 2021.12. - 2021 BizFlow * HGU AppDev Contest **Encouragement prize** (Hospital recommendation Web)   <br>
 
