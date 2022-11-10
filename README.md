@@ -6,9 +6,9 @@
 
 
 #### 🐱 ABOUT ME 🐱
-<a href="https://www.instagram.com/hhhhhye_l/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="mailto:HyelimChoi@handong.ac.kr"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://healim01.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-
+<a href="https://www.instagram.com/hhhhhye_l/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 #### 😎 TEAM 😎
 2020.09 ~ 2021.12 - [HGU Team UNBAP](https://unbap.github.io/) <br>
