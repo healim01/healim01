@@ -5,6 +5,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhealim01&count_bg=%23673DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
+#### 🐱 ABOUT ME 🐱
+<a href="https://www.instagram.com/hhhhhye_l/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://healim01.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+
+
 #### 😎 TEAM 😎
 2020.09 ~ 2021.12 - [HGU Team UNBAP](https://unbap.github.io/) <br>
 2021.06 ~ 2021.12 - HGU Team JOMARU <br>
