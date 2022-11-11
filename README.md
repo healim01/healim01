@@ -13,7 +13,7 @@
 #### 😎 TEAM 😎
 2020.09 ~ 2021.12 - [HGU Team UNBAP](https://unbap.github.io/) <br>
 2021.06 ~ 2021.12 - HGU Team JOMARU <br>
-2021.01 ~ present - HGU Team HUT YA! <br>
+2021.01 ~ present - [HGU Team HUT YA!](https://hut.handong.app/) <br>
 2022.01 ~ present - [LETU Senior Design Team Badger](https://www.letu.edu/academics/engineering/article-page.html)
 
 
