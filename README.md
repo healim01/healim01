@@ -1,12 +1,20 @@
 ### Hi there 👋
 ### This is Hyelim's Github!   
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhealim01&count_bg=%23673DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+#### 🐱 ABOUT ME 🐱
+<a href="mailto:HyelimChoi@handong.ac.kr"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://healim01.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="https://www.instagram.com/hhhhhye_l/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+
 
 #### 😎 TEAM 😎
 2020.09 ~ 2021.12 - [HGU 팀 UNBAP](https://unbap.github.io/) <br>
+2021.01 ~ 2022.12 - HGU 팀 HUT YA! <br>
 2021.06 ~ 2021.12 - HGU 팀 조마루 감자탕 (JOMARU) <br>
-2021.01 ~ present - HGU 팀 HUT YA! <br>
-2022.01 ~ present - LETU Senior Design 팀 Badger
+2022.01 ~ 2023.01 - LETU Senior Design 팀 Badger
 
 
 #### 🖥 PROJECT 🖥
@@ -22,6 +30,7 @@
 
 #### 🏆 ACHIEVEMENTS 🏆
 
+2022.10. - 2022 한동대학교 SW 페스티벌 소프트웨어 융합연구 공모전 **최우수상** <br>
 2022.05. - 2022 대경권 프로그래밍 경진대회 **장려상**  <br>  
 
 2021.12. - 2021 전국 대학생 프로그래밍 경진대회 **장려상** <br>
