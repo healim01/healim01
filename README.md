@@ -14,7 +14,8 @@
 2020.09 ~ 2021.12 - [HGU 팀 UNBAP](https://unbap.github.io/) <br>
 2021.01 ~ 2022.12 - HGU 팀 HUT YA! <br>
 2021.06 ~ 2021.12 - HGU 팀 조마루 감자탕 (JOMARU) <br>
-2022.01 ~ 2023.01 - [LETU Senior Design 팀 Badger](https://www.letu.edu/academics/engineering/senior-design-projects.html)
+2022.01 ~ 2023.01 - [LETU Senior Design 팀 Badger](https://www.letu.edu/academics/engineering/senior-design-projects.html) <br>
+2023.01 ~ present - HGU 팀 WALAB
 
 
 #### 🖥 PROJECT 🖥
