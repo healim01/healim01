@@ -16,7 +16,7 @@
 2021.06 ~ 2021.12 - HGU 팀 조마루 감자탕 (JOMARU) <br>
 2022.01 ~ 2023.01 - [LETU Senior Design 팀 Badger](https://www.letu.edu/academics/engineering/senior-design-projects.html) <br>
 2023.01 ~ present - HGU 팀 WALAB <br>
-2023.03 ~ present - HGU 팀 [멋쟁이사자처럼 11기] (https://hgulikelion.web.app/) 
+2023.03 ~ present - [HGU 팀 멋쟁이사자처럼 11기](https://hgulikelion.web.app/) 
 
 
 #### 🖥 PROJECT 🖥
