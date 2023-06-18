@@ -29,7 +29,7 @@
 2022.06 ~ 07 - [HUT 웹사이트 뉴버전 / HUT Website v2](https://hut.handong.app/) <br>
 2022.06 ~ 11 - Badger UI v2.0.0 앱 <br>
 2023.03 ~ ing - Airhelp 웹 <br>
-2023.04 ~ 2023.05 - DayPix 앱 <br>
+2023.04 ~ 2023.05 - [DayPix 앱](https://github.com/healim01/DayPix) <br>
 
 
 #### 🏆 ACHIEVEMENTS 🏆
