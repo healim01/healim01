@@ -29,11 +29,12 @@
 2022.06 ~ 07 - [HUT 웹사이트 뉴버전 / HUT Website v2](https://hut.handong.app/) <br>
 2022.06 ~ 11 - Badger UI v2.0.0 앱 <br>
 2023.03 ~ ing - Airhelp 웹 <br>
-2023.04 ~ 2023.05 - [DayPix 앱](https://github.com/healim01/DayPix) <br>
-2023.08 ~ 2023.08 - [ITABLE; 알러지 및 특이식단 도움 서비스] (http://elasticbeanstalk-ap-northeast-2-666955593418.s3-website.ap-northeast-2.amazonaws.com/) <br/>
+2023.04 ~ 05 - [DayPix 앱](https://github.com/healim01/DayPix) <br>
+2023.07 ~ 07 - [ITABLE; 알러지 및 특이식단 도움 서비스](http://elasticbeanstalk-ap-northeast-2-666955593418.s3-website.ap-northeast-2.amazonaws.com/) <br/>
 
 #### 🏆 ACHIEVEMENTS 🏆
 
+2023.07. - 2023 영남권 대학 IT 해커톤 (DREAMLANDTHON) **최우수상** <br>
 2023.06. - 2023 BizFlow M Pre-Contest **우수상** <br>
 
 2022.10. - 2022 한동대학교 SW 페스티벌 소프트웨어 융합연구 공모전 **최우수상** (HUT YA!) <br>
