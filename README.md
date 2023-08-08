@@ -33,7 +33,7 @@
 2022.06 ~ 11 - Badger UI v2.0.0 앱 <br>
 2023.03 ~ ing - Airhelp 웹 <br>
 2023.04 ~ 05 - [DayPix 앱](https://github.com/healim01/DayPix) <br>
-2023.07 ~ 07 - Funddin; 팬들이 직접 만드는 굿즈 서비스 <br>
+2023.07 ~ 07 - Funddin | 팬들이 직접 만드는 굿즈 서비스 <br>
 2023.07 ~ 07 - [ITABLE; 알러지 및 특이식단 도움 서비스](http://elasticbeanstalk-ap-northeast-2-666955593418.s3-website.ap-northeast-2.amazonaws.com/) <br/>
 
 #### 🏆 ACHIEVEMENTS 🏆
