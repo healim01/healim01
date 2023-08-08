@@ -53,8 +53,3 @@
 2020.11. - 2020 한동대학교 SW 페스티벌 1학년 자작소프트웨어 공모전 **최우수상** <br>
 
 <br>
-
-<div>
- <img src="https://github-readme-stats.vercel.app/api?username=healim01&show_icons=true&theme=github_dark&count_private=true&hide_border=true" align="left" style="width: 53%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=healim01&exclude_repo=merge_game&layout=compact&theme=github_dark" style="width: 42%"/>
-</div>
