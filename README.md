@@ -42,6 +42,7 @@
 
 #### 🏆 ACHIEVEMENTS 🏆
 
+2023.08. - 2023 BizFlow M Contest **우수상** <br>
 2023.07. - 2023 영남권 대학 IT 해커톤 (DREAMLANDTHON) **최우수상** <br>
 2023.06. - 2023 BizFlow M Pre-Contest **우수상** <br>
 
