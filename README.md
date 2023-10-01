@@ -19,7 +19,8 @@
 2021.06 ~ 2021.12 - 조마루 감자탕 (JOMARU) <br>
 2022.01 ~ 2023.01 - [LETU Senior Design Badger](https://www.letu.edu/academics/engineering/senior-design-projects.html) <br>
 2023.01 ~ present - WALAB <br>
-2023.03 ~ present - [멋쟁이사자처럼 11기 프론트엔드](https://hgulikelion.web.app/) 
+2023.03 ~ present - [멋쟁이사자처럼 11기 프론트엔드](https://hgulikelion.web.app/) <br>
+2023.08 ~ present - AAA <br>
 
 
 #### 🖥 PROJECT 🖥
