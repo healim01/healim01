@@ -42,7 +42,7 @@
 2023.09 ~ ing - Hanspace; 공간 예약 플랫폼 <2023 캡스톤 1> 
 
 #### 🏆 ACHIEVEMENTS 🏆
-2023.10. - 2023 ACM-ICPC 경진대회 한동대학교 **은상** <br>
+2023.10. - 2023 ICPC 경진대회 한동대학교 **은상** <br>
 2023.08. - 2023 BizFlow M Contest **우수상** <br>
 2023.07. - 2023 영남권 대학 IT 해커톤 (DREAMLANDTHON) **최우수상** <br>
 2023.06. - 2023 BizFlow M Pre-Contest **우수상** <br>
