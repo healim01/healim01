@@ -39,7 +39,7 @@
 2023.07 ~ 07 - [ITABLE; 알러지 및 특이식단 도움 서비스](http://elasticbeanstalk-ap-northeast-2-666955593418.s3-website.ap-northeast-2.amazonaws.com/) <br/>
 2023.07 ~ 08 - 멋쟁이사자처럼 중앙해커톤 CuriosQuest <br/>
 2023.09 ~ 09 - [spacepic; 네컷사진 아카이빙 서비스](http://space-pic.s3-website.ap-northeast-2.amazonaws.com/) <br/>
-2023.09 ~ ing - Hanspace; 공간 예약 플랫폼 <2023 캡스톤 1> 
+2023.09 ~ ing - [Hanspace; 공간 예약 플랫폼 <2023 캡스톤 1>](https://hanspace.netlify.app/)  
 
 #### 🏆 ACHIEVEMENTS 🏆 
 <details>
