@@ -16,7 +16,7 @@
 
 
 #### 🌱 TEAM 🌱
-2020.09 ~ 2021.12 - [UNBAP](https://unbap.github.io/) <br>
+2020.09 ~ 2021.12 - UNBAP <br>
 2021.01 ~ 2022.12 - HUT YA! <br>
 2022.01 ~ 2023.01 - [LETU Senior Design Badger](https://www.letu.edu/academics/engineering/senior-design-projects.html) <br>
 2023.01 ~ present - WALAB; 웹앱 개발 연구실 <br>
@@ -25,7 +25,7 @@
 
 
 #### 🖥 PROJECT 🖥
-2021.05 ~ 06 - [UNBAP 홈페이지 / UNBAP Website](https://unbap.github.io/) <br>
+2021.05 ~ 06 - UNBAP 홈페이지 / UNBAP Website <br>
 2021.06 ~ 11 - [IT 가이드 앱 / IT Guide App](https://github.com/healim01/it_guide) <br>
 2021.09 ~ 10 - [HUT 웹사이트 / HUT Website](https://github.com/handong-app/handong-ut-web/blob/main/OLD/hut.handong.app_(iPhone%2012%20Pro).png) <br>
 2022.01 ~ 05 - Badger UI 앱 / Badger UI App <br>
