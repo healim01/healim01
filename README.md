@@ -25,21 +25,21 @@
 
 
 #### 🖥 PROJECT 🖥
-2021.05 ~ 06 - UNBAP 홈페이지 / UNBAP Website <br>
-2021.06 ~ 11 - [IT 가이드 앱 / IT Guide App](https://github.com/healim01/it_guide) <br>
-2021.09 ~ 10 - [HUT 웹사이트 / HUT Website](https://github.com/handong-app/handong-ut-web/blob/main/OLD/hut.handong.app_(iPhone%2012%20Pro).png) <br>
-2022.01 ~ 05 - Badger UI 앱 / Badger UI App <br>
-2022.04 ~ 08 - [HUT v1.0.0 앱](https://apps.apple.com/us/app/hut/id1593293986) <br> 
-2022.06 ~ 07 - [HUT 웹사이트 뉴버전 / HUT Website v2](https://hut.handong.app/) <br>
-2022.06 ~ 11 - Badger UI v2.0.0 앱 <br>
-2023.04 ~ 05 - [DayPix 앱](https://github.com/healim01/DayPix) <br>
-2023.06 ~ 06 - 멋쟁이사자처럼 아이디어톤 맞춤법 서비스 어랏 <br/>
-2023.07 ~ 07 - Funddin | 팬들이 직접 만드는 굿즈 서비스 <br>
-2023.07 ~ 07 - [ITABLE; 알러지 및 특이식단 도움 서비스](http://elasticbeanstalk-ap-northeast-2-666955593418.s3-website.ap-northeast-2.amazonaws.com/) <br/>
-2023.07 ~ 08 - 멋쟁이사자처럼 중앙해커톤 CuriosQuest <br/>
-2023.09 ~ 09 - [spacepic; 네컷사진 아카이빙 서비스](http://space-pic.s3-website.ap-northeast-2.amazonaws.com/) <br/>
+2023.09 ~ 01 - [Hanspace; 공간 예약 플랫폼 <2023 캡스톤 1>](https://hanspace.netlify.app/) <br> 
 2023.10 ~ 12 - [PrayLight; 공동체 기도제목 나눔 플랫폼](https://praylight.netlify.app/)<br/>
-2023.09 ~ ing - [Hanspace; 공간 예약 플랫폼 <2023 캡스톤 1>](https://hanspace.netlify.app/)  
+2023.09 ~ 09 - [spacepic; 네컷사진 아카이빙 서비스](http://space-pic.s3-website.ap-northeast-2.amazonaws.com/) <br/>
+2023.07 ~ 08 - 멋쟁이사자처럼 중앙해커톤 CuriosQuest <br>
+2023.07 ~ 07 - [ITABLE; 알러지 및 특이식단 도움 서비스](http://elasticbeanstalk-ap-northeast-2-666955593418.s3-website.ap-northeast-2.amazonaws.com/) <br/>
+2023.07 ~ 07 - Funddin | 팬들이 직접 만드는 굿즈 서비스 <br>
+2023.06 ~ 06 - 멋쟁이사자처럼 아이디어톤 맞춤법 서비스 어랏 <br>
+2023.04 ~ 05 - [DayPix 앱](https://github.com/healim01/DayPix) <br>
+2022.06 ~ 11 - Badger UI v2.0.0 앱 <br>
+2022.06 ~ 07 - [HUT 웹사이트 뉴버전 / HUT Website v2](https://hut.handong.app/) <br>
+2022.04 ~ 08 - [HUT v1.0.0 앱](https://apps.apple.com/us/app/hut/id1593293986) <br> 
+2022.01 ~ 05 - [HUT 웹사이트 / HUT Website](https://github.com/handong-app/handong-ut-web/blob/main/OLD/hut.handong.app_(iPhone%2012%20Pro).png) <br>
+2021.09 ~ 10 - HUT 웹사이트 / HUT Website <br>
+2021.06 ~ 11 - [IT 가이드 앱 / IT Guide App](https://github.com/healim01/it_guide) <br>
+2021.05 ~ 06 - UNBAP 홈페이지 / UNBAP Website
 
 #### 🏆 ACHIEVEMENTS 🏆 
 2023.11. - 2023 교내 SW 페스티벌 공모전 (소프트웨어 융합연구 부문) **최우수상** (PrayLight)   
