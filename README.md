@@ -18,7 +18,7 @@
 #### 🌱 TEAM 🌱
 2020.09 ~ 2021.12 - UNBAP <br>
 2021.01 ~ 2022.12 - HUT YA! <br>
-2022.01 ~ 2023.01 - [LETU Senior Design Badger](https://www.letu.edu/academics/engineering/senior-design-projects.html) <br>
+2022.01 ~ 2023.01 - [LETU Senior Design Team Badger](https://www.letu.edu/academics/engineering/senior-design-projects.html) <br>
 2023.01 ~ present - WALAB; 웹앱 개발 연구실 <br>
 2023.03 ~ 2024.02 - [멋쟁이사자처럼 11기 프론트엔드](https://hgulikelion.web.app/) <br>
 2024.02 ~ present - 우아한테크코스 6기 프론트엔드 <br>
