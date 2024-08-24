@@ -25,6 +25,7 @@
 
 
 #### 🖥 PROJECT 🖥
+2024.06 ~ 09 - [방끗; 자취 초보를 위한 체크리스트 서비스](https://bang-ggood.com/) <br> 
 2023.09 ~ 01 - [Hanspace; 공간 예약 플랫폼 <2023 캡스톤 1>](https://hanspace.netlify.app/) <br> 
 2023.10 ~ 12 - [PrayLight; 공동체 기도제목 나눔 플랫폼](https://praylight.netlify.app/)<br/>
 2023.09 ~ 09 - [spacepic; 네컷사진 아카이빙 서비스](http://space-pic.s3-website.ap-northeast-2.amazonaws.com/) <br/>
