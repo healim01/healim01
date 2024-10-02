@@ -34,7 +34,7 @@
 2023.07 ~ 07 - Funddin | 팬들이 직접 만드는 굿즈 서비스 <br>
 2023.06 ~ 06 - 멋쟁이사자처럼 아이디어톤 맞춤법 서비스 어랏 <br>
 2023.04 ~ 05 - [DayPix 앱](https://github.com/healim01/DayPix) <br>
-2022.06 ~ 11 - Badger UI v2.0.0 앱 <br>
+2022.01 ~ 12 - Badger v2.0.0 앱 <br>
 2022.06 ~ 07 - [HUT 웹사이트 뉴버전 / HUT Website v2](https://hut.handong.app/) <br>
 2022.04 ~ 08 - [HUT v1.0.0 앱](https://apps.apple.com/us/app/hut/id1593293986) <br> 
 2022.01 ~ 05 - [HUT 웹사이트 / HUT Website](https://github.com/handong-app/handong-ut-web/blob/main/OLD/hut.handong.app_(iPhone%2012%20Pro).png) <br>
