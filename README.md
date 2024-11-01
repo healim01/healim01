@@ -44,12 +44,13 @@
 2021.05 ~ 06 - UNBAP Website
 
 #### 🏆 ACHIEVEMENTS 🏆 
-2023.11. - 2023 Univ Software Festival Contest (Software Convergence Research Division) Top Prize (PrayLight) <br>
-2023.07. - 2023 Yeongnam Region IT Hackathon (DREAMLANDTHON) Top Prize (ITABLE) <br> 
-2022.10. - 2022 Univ Software Festival Contest (Software Convergence Research Division) Top Prize (HUT YA!) <br> 
-2021.12. - 2021 Univ Software Festival Contest (Smart Application Division) Top Prize (HUT) <br> 
-2021.12. - 2021 Univ Software Festival Contest (Problem Solving Idea Division) Top Prize (IT Guide) <br> 
-2020.11. - 2020 Univ Software Festival 1st Year Software Contest Top Prize <br> 
+2023.11. - 2023 Univ Software Festival Contest (Software Convergence Research Division) **Top Prize** (PrayLight) <br>
+2023.12. - 2023 Univ Algorithm Connect6 Competition **Bronze Medal**
+2023.07. - 2023 Yeongnam Region IT Hackathon (DREAMLANDTHON) **Top Prize** (ITABLE) <br> 
+2022.10. - 2022 Univ Software Festival Contest (Software Convergence Research Division) **Top Prize** (HUT YA!) <br> 
+2021.12. - 2021 Univ Software Festival Contest (Smart Application Division) **Top Prize** (HUT) <br> 
+2021.12. - 2021 Univ Software Festival Contest (Problem Solving Idea Division) **Top Prize** (IT Guide) <br> 
+2020.11. - 2020 Univ Software Festival 1st Year Software Contest **Top Prize** <br> 
 
 
 
@@ -58,26 +59,26 @@
 
   <div markdown="1"> 
     
-    2023.12. - 2023 School Algorithm Gomoku Competition Bronze Medal  
-2023.11. - 2023 School Programming Contest Encouragement Award  
-2023.11. - 2023 School Software Festival Contest (Software Convergence Research Division) Top Prize  
-2023.11. - 2023 School Software Festival Contest (Smart Application Division) Encouragement Award  
-2023.11. - 2023 School Software Festival Contest (Problem Solving Idea Division) Encouragement Award  
-2023.10. - 2023 ICPC Competition School Silver Medal  
-2023.08. - 2023 BizFlow M Contest Excellence Award  
-2023.07. - 2023 Yeongnam Region IT Hackathon (DREAMLANDTHON) Top Prize  
-2023.06. - 2023 BizFlow M Pre-Contest Excellence Award  
+    2023.12. - 2023 Univ Algorithm Connect6 Competition **Bronze Medal**
+2023.11. - 2023 Univ Programming Contest Encouragement Award  
+2023.11. - 2023 Univ Software Festival Contest (Software Convergence Research Division) **Top Prize**  
+2023.11. - 2023 Univ Software Festival Contest (Smart Application Division) **Encouragement Award**  
+2023.11. - 2023 Univ Software Festival Contest (Problem Solving Idea Division) **Encouragement Award**  
+2023.10. - 2023 ICPC Competition School **Silver Medal**  
+2023.08. - 2023 BizFlow M Contest **Excellence Award**  
+2023.07. - 2023 Yeongnam Region IT Hackathon (DREAMLANDTHON) **Top Prize**  
+2023.06. - 2023 BizFlow M Pre-Contest **Excellence Award**  
 
-2022.10. - 2022 School Software Festival Contest (Software Convergence Research Division) Top Prize (HUT YA!)  
-2022.05. - 2022 Daegu Gyeongbuk Programming Contest Encouragement Award  
+2022.10. - 2022 Univ Software Festival Contest (Software Convergence Research Division) **Top Prize** (HUT YA!)  
+2022.05. - 2022 Daegu Gyeongbuk Programming Contest **Encouragement Award**  
 
-2021.12. - 2021 National University Programming Contest Encouragement Award  
-2021.12. - 2021 School Software Festival Contest (Smart Application Division) Top Prize (HUT)  
-2021.12. - 2021 School Software Festival Contest (Problem Solving Idea Division) Top Prize (IT Guide)  
-2021.12. - 2021 BizFlow * HGU AppDev Contest Encouragement Award (Nearby Hospital Recommendation System)  
+2021.12. - 2021 National University Programming Contest **Encouragement Award**  
+2021.12. - 2021 Univ Software Festival Contest (Smart Application Division) **Top Prize** (HUT)  
+2021.12. - 2021 Univ Software Festival Contest (Problem Solving Idea Division) **Top Prize** (IT Guide)  
+2021.12. - 2021 BizFlow * HGU AppDev Contest **Encouragement Award** (Nearby Hospital Recommendation System)  
 
-2020.12. - 2020 1st Year C Programming Contest Encouragement Award  
-2020.11. - 2020 School Software Festival 1st Year Software Contest Grand Prize  
+2020.12. - 2020 1st Year C Programming Contest **Encouragement Award**  
+2020.11. - 2020 School Software Festival 1st Year Software Contest **Grand Prize**  
  
     
   </div>
