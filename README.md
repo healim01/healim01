@@ -16,65 +16,69 @@
 
 
 #### 🌱 TEAM 🌱
-2020.09 ~ 2021.12 - UNBAP <br>
-2021.01 ~ 2022.12 - HUT YA! <br>
+2020.09 ~ 2021.12 - UNBAP <br> 
+2021.01 ~ 2022.12 - HUT YA! <br> 
 2022.01 ~ 2023.01 - [LETU Senior Design Team Badger](https://www.letu.edu/academics/engineering/senior-design-projects.html) <br>
-2023.01 ~ present - WALAB; 웹앱 개발 연구실 <br>
-2023.03 ~ 2024.02 - [멋쟁이사자처럼 11기 프론트엔드](https://hgulikelion.web.app/) <br>
-2024.02 ~ present - 우아한테크코스 6기 프론트엔드 <br>
+2023.01 ~ present - WALAB; WebApp Development Research Lab <br> 
+2023.03 ~ 2024.02 - [LikeLion 11th Gen Frontend](https://hgulikelion.web.app/) <br> 
+2024.02 ~ present - Woowahan TechCourse 6th Gen Frontend <br>
+
+
 
 
 #### 🖥 PROJECT 🖥
-2024.06 ~ 09 - [방끗; 자취 초보를 위한 체크리스트 서비스](https://bang-ggood.com/) <br> 
-2023.09 ~ 01 - [Hanspace; 공간 예약 플랫폼 <2023 캡스톤 1>](https://hanspace.netlify.app/) <br> 
-2023.10 ~ 12 - [PrayLight; 공동체 기도제목 나눔 플랫폼](https://praylight.netlify.app/)<br/>
-2023.09 ~ 09 - [spacepic; 네컷사진 아카이빙 서비스](http://space-pic.s3-website.ap-northeast-2.amazonaws.com/) <br/>
-2023.07 ~ 08 - 멋쟁이사자처럼 중앙해커톤 CuriosQuest <br>
-2023.07 ~ 07 - [ITABLE; 알러지 및 특이식단 도움 서비스](http://elasticbeanstalk-ap-northeast-2-666955593418.s3-website.ap-northeast-2.amazonaws.com/) <br/>
-2023.07 ~ 07 - Funddin | 팬들이 직접 만드는 굿즈 서비스 <br>
-2023.06 ~ 06 - 멋쟁이사자처럼 아이디어톤 맞춤법 서비스 어랏 <br>
-2023.04 ~ 05 - [DayPix 앱](https://github.com/healim01/DayPix) <br>
-2022.01 ~ 12 - Badger v2.0.0 앱 <br>
-2022.06 ~ 07 - [HUT 웹사이트 뉴버전 / HUT Website v2](https://hut.handong.app/) <br>
-2022.04 ~ 08 - [HUT v1.0.0 앱](https://apps.apple.com/us/app/hut/id1593293986) <br> 
-2022.01 ~ 05 - [HUT 웹사이트 / HUT Website](https://github.com/handong-app/handong-ut-web/blob/main/OLD/hut.handong.app_(iPhone%2012%20Pro).png) <br>
-2021.09 ~ 10 - HUT 웹사이트 / HUT Website <br>
-2021.06 ~ 11 - [IT 가이드 앱 / IT Guide App](https://github.com/healim01/it_guide) <br>
-2021.05 ~ 06 - UNBAP 홈페이지 / UNBAP Website
+2024.06 ~ 09 - [Bang-Ggood; Checklist service for new independent living](https://bang-ggood.com/) <br> 
+2023.09 ~ 01 - [Hanspace; Space reservation platform <2023 Capstone 1>]](https://hanspace.netlify.app/) <br> 
+2023.10 ~ 12 - [PrayLight; Platform for sharing prayer topics in communities](https://praylight.netlify.app/)<br/> 
+2023.09 ~ 09 - [Spacepic; Archive service for photo booths](http://space-pic.s3-website.ap-northeast-2.amazonaws.com/) <br> 
+2023.07 ~ 08 - LikeLion Central Hackathon CuriosQuest <br> 
+2023.07 ~ 07 - [ITABLE; Service for managing allergies and special diets](http://elasticbeanstalk-ap-northeast-2-666955593418.s3-website.ap-northeast-2.amazonaws.com/) <br> 
+2023.07 ~ 07 - Funddin | A service where fans create their own goods <br> 
+2023.06 ~ 06 - LikeLion Ideathon Spell Check Service Allat <br> 
+2023.04 ~ 05 - [DayPix App](https://github.com/healim01/DayPix) <br> 
+2022.01 ~ 12 - Badger v2.0.0 App <br> 
+2022.06 ~ 07 - [HUT Website New Version](https://hut.handong.app/) <br> 
+2022.04 ~ 08 - [HUT v1.0.0 App](https://apps.apple.com/us/app/hut/id1593293986) <br> 
+2022.01 ~ 05 - [HUT Website](https://apps.apple.com/us/app/hut/id1593293986) <br> 
+2021.06 ~ 11 - [IT Guide App](https://apps.apple.com/us/app/hut/id1593293986) <br> 
+2021.05 ~ 06 - UNBAP Website
 
 #### 🏆 ACHIEVEMENTS 🏆 
-2023.11. - 2023 교내 SW 페스티벌 공모전 (소프트웨어 융합연구 부문) **최우수상** (PrayLight)   
-2023.07. - 2023 영남권 대학 IT 해커톤 (DREAMLANDTHON) **최우수상** (ITABLE)    
-2022.10. - 2022 교내 SW 페스티벌 공모전 (소프트웨어 융합연구 부문) **최우수상** (HUT YA!)    
-2021.12. - 2021 교내 SW 페스티벌 공모전 (스마트 어플리케이션 부문) **대상** (HUT)    
-2021.12. - 2021 교내 SW 페스티벌 공모전 (문제해결 아이디어 부문) **대상** (IT Guide)  
-2020.11. - 2020 교내 SW 페스티벌 1학년 자작소프트웨어 공모전 **최우수상**  
+2023.11. - 2023 Univ Software Festival Contest (Software Convergence Research Division) Top Prize (PrayLight) <br>
+2023.07. - 2023 Yeongnam Region IT Hackathon (DREAMLANDTHON) Top Prize (ITABLE) <br> 
+2022.10. - 2022 Univ Software Festival Contest (Software Convergence Research Division) Top Prize (HUT YA!) <br> 
+2021.12. - 2021 Univ Software Festival Contest (Smart Application Division) Top Prize (HUT) <br> 
+2021.12. - 2021 Univ Software Festival Contest (Problem Solving Idea Division) Top Prize (IT Guide) <br> 
+2020.11. - 2020 Univ Software Festival 1st Year Software Contest Top Prize <br> 
+
+
 
 <details>
   <summary> No room for here, because I have too many Trophies 😎 </summary>
 
   <div markdown="1"> 
     
-    2023.12. - 2023 교내 알고리즘 육목 경진 대회 동상
-    2023.11. - 2023 교내 프로그래밍 경진대회 장려상   
-    2023.11. - 2023 교내 SW 페스티벌 공모전 (소프트웨어 융합연구 부문) 최우수상   
-    2023.11. - 2023 교내 SW 페스티벌 공모전 (스마트 애플리케이션 부문) 장려상   
-    2023.11. - 2023 교내 SW 페스티벌 공모전 (문제해결 아이디어 부문) 장려상   
-    2023.10. - 2023 ICPC 경진대회 교내 은상   
-    2023.08. - 2023 BizFlow M Contest 우수상
-    2023.07. - 2023 영남권 대학 IT 해커톤 (DREAMLANDTHON) 최우수상  
-    2023.06. - 2023 BizFlow M Pre-Contest 우수상  
-    
-    2022.10. - 2022 교내 SW 페스티벌 공모전 (소프트웨어 융합연구 부문) 최우수상 (HUT YA!)  
-    2022.05. - 2022 대경권 프로그래밍 경진대회 장려상  
-    
-    2021.12. - 2021 전국 대학생 프로그래밍 경진대회 장려상  
-    2021.12. - 2021 교내 SW 페스티벌 공모전 (스마트 어플리케이션 부문) 대상 (HUT)  
-    2021.12. - 2021 교내 SW 페스티벌 공모전 (문제해결 아이디어 부문) 대상 (IT Guide)  
-    2021.12. - 2021 BizFlow * HGU AppDev Contest 장려상 (교내 인근 병원 추천 시스템)  
-      
-    2020.12. - 2020 교내 1학년 C프로그래밍 컨테스트 장려상  
-    2020.11. - 2020 교내 SW 페스티벌 1학년 자작소프트웨어 공모전 최우수상  
+    2023.12. - 2023 School Algorithm Gomoku Competition Bronze Medal  
+2023.11. - 2023 School Programming Contest Encouragement Award  
+2023.11. - 2023 School Software Festival Contest (Software Convergence Research Division) Top Prize  
+2023.11. - 2023 School Software Festival Contest (Smart Application Division) Encouragement Award  
+2023.11. - 2023 School Software Festival Contest (Problem Solving Idea Division) Encouragement Award  
+2023.10. - 2023 ICPC Competition School Silver Medal  
+2023.08. - 2023 BizFlow M Contest Excellence Award  
+2023.07. - 2023 Yeongnam Region IT Hackathon (DREAMLANDTHON) Top Prize  
+2023.06. - 2023 BizFlow M Pre-Contest Excellence Award  
+
+2022.10. - 2022 School Software Festival Contest (Software Convergence Research Division) Top Prize (HUT YA!)  
+2022.05. - 2022 Daegu Gyeongbuk Programming Contest Encouragement Award  
+
+2021.12. - 2021 National University Programming Contest Encouragement Award  
+2021.12. - 2021 School Software Festival Contest (Smart Application Division) Top Prize (HUT)  
+2021.12. - 2021 School Software Festival Contest (Problem Solving Idea Division) Top Prize (IT Guide)  
+2021.12. - 2021 BizFlow * HGU AppDev Contest Encouragement Award (Nearby Hospital Recommendation System)  
+
+2020.12. - 2020 1st Year C Programming Contest Encouragement Award  
+2020.11. - 2020 School Software Festival 1st Year Software Contest Grand Prize  
+ 
     
   </div>
 </details>
