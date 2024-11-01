@@ -28,7 +28,7 @@
 
 #### 🖥 PROJECT 🖥
 2024.06 ~ 09 - [Bang-Ggood; Checklist service for new independent living](https://bang-ggood.com/) <br> 
-2023.09 ~ 01 - [Hanspace; Space reservation platform <2023 Capstone 1>]](https://hanspace.netlify.app/) <br> 
+2023.09 ~ 01 - [Hanspace; Space reservation platform <2023 Capstone 1>](https://hanspace.netlify.app/) <br> 
 2023.10 ~ 12 - [PrayLight; Platform for sharing prayer topics in communities](https://praylight.netlify.app/)<br/> 
 2023.09 ~ 09 - [Spacepic; Archive service for photo booths](http://space-pic.s3-website.ap-northeast-2.amazonaws.com/) <br> 
 2023.07 ~ 08 - LikeLion Central Hackathon CuriosQuest <br> 
