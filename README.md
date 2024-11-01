@@ -45,7 +45,7 @@
 
 #### 🏆 ACHIEVEMENTS 🏆 
 2023.11. - 2023 Univ Software Festival Contest (Software Convergence Research Division) **Top Prize** (PrayLight) <br>
-2023.12. - 2023 Univ Algorithm Connect6 Competition **Bronze Medal**
+2023.12. - 2023 Univ Algorithm Connect6 Competition **Bronze Medal** <br> 
 2023.07. - 2023 Yeongnam Region IT Hackathon (DREAMLANDTHON) **Top Prize** (ITABLE) <br> 
 2022.10. - 2022 Univ Software Festival Contest (Software Convergence Research Division) **Top Prize** (HUT YA!) <br> 
 2021.12. - 2021 Univ Software Festival Contest (Smart Application Division) **Top Prize** (HUT) <br> 
