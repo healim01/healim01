@@ -22,6 +22,8 @@
 2023.01 ~ present - WALAB; WebApp Development Research Lab <br> 
 2023.03 ~ 2024.02 - [LikeLion 11th Gen Frontend](https://hgulikelion.web.app/) <br> 
 2024.02 ~ present - Woowahan TechCourse 6th Gen Frontend <br>
+2024.07 ~ present - Bang-Ggood <br>
+2024.10 ~ present - Code-Zap <br>
 
 
 
