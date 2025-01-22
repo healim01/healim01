@@ -54,7 +54,7 @@
 2020.11. - 2020 교내 SW 페스티벌 1학년 자작소프트웨어 공모전 **최우수상**  
 
 <details>
-  <summary> No room for here, because I have too many Trophies 😎 </summary>
+  <summary> And More.. No room for there, because I have too many Trophies 🏆 😎 </summary>
 
   <div markdown="1"> 
     
