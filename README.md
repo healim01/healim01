@@ -28,7 +28,7 @@
 
 
 #### 🖥 PROJECT 🖥
-2024.10 ~ ing - [⚡️code-zap⚡️](https://www.code-zap.com/) <br>
+2024.10 ~ ing - [코드잽; 코드 템플릿, Zap싸게 저장하고! Zap싸게 공유하자!⚡️](https://www.code-zap.com/) <br>
 2024.06 ~ ing - [방끗; 자취 초보를 위한 체크리스트 서비스](https://bang-ggood.com/) <br> 
 2023.09 ~ 01 - [Hanspace; 공간 예약 플랫폼 <2023 캡스톤 1>](https://hanspace.netlify.app/) <br> 
 2023.10 ~ 12 - [PrayLight; 공동체 기도제목 나눔 플랫폼](https://praylight.netlify.app/)<br/>
