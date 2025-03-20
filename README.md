@@ -28,9 +28,10 @@
 
 
 #### 🖥 PROJECT 🖥
-2024.10 ~ ing - [코드잽; 코드 템플릿, Zap싸게 저장하고! Zap싸게 공유하자!⚡️](https://www.code-zap.com/) <br>
-2024.06 ~ ing - [방끗; 자취 초보를 위한 체크리스트 서비스](https://bang-ggood.com/) <br> 
-2023.09 ~ 01 - [Hanspace; 공간 예약 플랫폼 <2023 캡스톤 1>](https://hanspace.netlify.app/) <br> 
+2025.02 ~ ing - [교내 전산전자 마일리지 장학금 서비스](http://walab.handong.edu/mileage/) <br/>
+2024.10 ~ ing - [코드잽; 코드 템플릿, Zap싸게 저장하고! Zap싸게 공유하자!⚡️](https://www.code-zap.com/) <br/>
+2024.06 ~ ing - [방끗; 자취 초보를 위한 체크리스트 서비스](https://bang-ggood.com/) <br/> 
+2023.09 ~ 01 - [Hanspace; 공간 예약 플랫폼 <2023 캡스톤 1>](https://hanspace.netlify.app/) <br/> 
 2023.10 ~ 12 - [PrayLight; 공동체 기도제목 나눔 플랫폼](https://praylight.netlify.app/)<br/>
 2023.09 ~ 09 - [spacepic; 네컷사진 아카이빙 서비스](http://space-pic.s3-website.ap-northeast-2.amazonaws.com/) <br/>
 2023.07 ~ 08 - 멋쟁이사자처럼 중앙해커톤 CuriosQuest <br>
