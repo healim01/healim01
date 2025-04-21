@@ -27,6 +27,7 @@
 
 
 #### 🖥 PROJECT 🖥
+2025.03 ~ ing - [🍞 Toaster Booth; 나만의 작은 토스터 사진관](https://toaster-booth.vercel.app/) <br/>
 2025.02 ~ ing - [교내 전산전자 마일리지 장학금 서비스](http://walab.handong.edu/mileage/) <br/>
 2024.10 ~ ing - [코드잽; 코드 템플릿, Zap싸게 저장하고! Zap싸게 공유하자!⚡️](https://www.code-zap.com/) <br/>
 2024.06 ~ ing - [방끗; 자취 초보를 위한 체크리스트 서비스](https://bang-ggood.com/) <br/> 
