@@ -45,7 +45,7 @@
 2022.01 ~ 05 - [HUT 웹사이트 / HUT Website](https://github.com/handong-app/handong-ut-web/blob/main/OLD/hut.handong.app_(iPhone%2012%20Pro).png) <br>
 2021.09 ~ 10 - HUT 웹사이트 / HUT Website <br>
 2021.06 ~ 11 - [IT 가이드 앱 / IT Guide App](https://github.com/healim01/it_guide) <br>
-2021.05 ~ 06 - UNBAP 홈페이지 / UNBAP Website
+
 
 #### 🏆 ACHIEVEMENTS 🏆 
 2025.05. - 2025 캡스톤 페스티벌 **최우수상** (마일스톤 시스템)     
