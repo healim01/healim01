@@ -31,19 +31,12 @@
 2025.02 ~ ing - [마일스톤 시스템: 교내 학생 역량 관리 모니터링 서비스](https://walab.info/mileage/) <br/>
 2024.10 ~ ing - [코드잽; 코드 템플릿, Zap싸게 저장하고! Zap싸게 공유하자!⚡️](https://www.code-zap.com/) <br/>
 2024.06 ~ ing - [방끗; 자취 초보를 위한 체크리스트 서비스](https://bang-ggood.com/) <br/> 
-2023.09 ~ 01 - [Hanspace; 공간 예약 플랫폼 <2023 캡스톤 1>](https://hanspace.netlify.app/) <br/> 
 2023.10 ~ 12 - [PrayLight; 공동체 기도제목 나눔 플랫폼](https://praylight.netlify.app/)<br/>
 2023.09 ~ 09 - [spacepic; 네컷사진 아카이빙 서비스](http://space-pic.s3-website.ap-northeast-2.amazonaws.com/) <br/>
-2023.07 ~ 08 - 멋쟁이사자처럼 중앙해커톤 CuriosQuest <br>
+2023.07 ~ 08 - [멋쟁이사자처럼 중앙해커톤 CuriosQuest](https://github.com/LikeLionHGU/11th-CurioQuest-front) <br>
 2023.07 ~ 07 - [ITABLE; 알러지 및 특이식단 도움 서비스](http://elasticbeanstalk-ap-northeast-2-666955593418.s3-website.ap-northeast-2.amazonaws.com/) <br/>
-2023.07 ~ 07 - Funddin | 팬들이 직접 만드는 굿즈 서비스 <br>
-2023.06 ~ 06 - 멋쟁이사자처럼 아이디어톤 맞춤법 서비스 어랏 <br>
-2023.04 ~ 05 - [DayPix 앱](https://github.com/healim01/DayPix) <br>
 2022.01 ~ 12 - Badger v2.0.0 앱 <br>
-2022.06 ~ 07 - [HUT 웹사이트 뉴버전 / HUT Website v2](https://hut.handong.app/) <br>
 2022.04 ~ 08 - [HUT v1.0.0 앱](https://apps.apple.com/us/app/hut/id1593293986) <br> 
-2022.01 ~ 05 - [HUT 웹사이트 / HUT Website](https://github.com/handong-app/handong-ut-web/blob/main/OLD/hut.handong.app_(iPhone%2012%20Pro).png) <br>
-2021.09 ~ 10 - HUT 웹사이트 / HUT Website <br>
 2021.06 ~ 11 - [IT 가이드 앱 / IT Guide App](https://github.com/healim01/it_guide) <br>
 
 
