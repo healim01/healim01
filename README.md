@@ -1,30 +1,16 @@
 ### Welcome to Hailey's Github!   
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=healim01.healim01)
-
 #### 🐱 ABOUT ME 🐱
 <a href="mailto:HyelimChoi01@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://healim01.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/hyelim-choi01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
-#### 🛠️ TechStack 🛠️
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/>  
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/> ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) <br>
-<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-
 #### 🌱 TEAM 🌱
-2020.09 ~ 2021.12 - UNBAP <br>
-2021.01 ~ 2022.12 - HUT YA! <br>
 2022.01 ~ 2023.01 - [LETU Senior Design Team Badger](https://www.letu.edu/academics/engineering/senior-design-projects.html) <br>
-2023.01 ~ present - WALAB; 웹앱 개발 연구실 <br>
 2023.03 ~ 2024.02 - [멋쟁이사자처럼 11기 프론트엔드](https://hgulikelion.web.app/) <br>
 2024.02 ~ 2024.11 - 우아한테크코스 6기 프론트엔드 <br>
 2024.06 ~ present - 팀 방끗 <br>
-2024.10 ~ present - 팀 코드잽 <br>
-
-
 
 #### 🖥 PROJECT 🖥
 2025.03 ~ ing - [🍞 Toaster Booth; 나만의 작은 토스터 사진관](https://toaster-booth.vercel.app/) <br/>
